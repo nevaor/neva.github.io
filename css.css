@@ -1,0 +1,114 @@
+body {
+		background-color: #FFF0F5;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 12px;
+}
+#wrapper {
+	width: 980px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#wrapper #header {
+	background-color: #FFE4E1;
+	float: left;
+	height: 150px;
+	width: 980px;
+}
+#wrapper #header .logo {
+	background-color: #FFE4E1;
+	float: left;
+	height: 100px;
+	width: 170px;
+	padding-top: 20px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#wrapper #header .banner {
+	background-color: 	#E6E6FA;
+	text-align: center;
+	float: left;
+	height: 100px;
+	width: 780px;
+	padding-top: 40px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+#wrapper #menu {
+	background-color: #D8BFD8;
+	float: left;
+	width: 800px;
+	padding-left: 180px;
+}
+#wrapper #content {
+	background-color: #FFE4E1;
+	float: left;
+	width: 980px;
+}
+#wrapper #content .left-menu {
+	background-color: #FFE4E1;
+	padding: 10px;
+	width: 160px;
+	float: left;
+}
+#wrapper #content .page {
+	background-color: #FFFFFF;
+	padding: 10px;
+	float: left;
+	width: 780px;
+}
+#wrapper #footer {
+	color: #000000;
+	background-color: #FFE4E1;
+	text-align: center;
+	padding: 5px;
+	float: left;
+	width: 970px;
+}
+#wrapper #menu a:link {
+		  color: #000000;
+		  text-decoration: none;
+		  margin: 1px;
+		  padding: 5px;
+		  float: left;
+		  background-color: #FFC0CB;
+}
+#wrapper #menu a:visited {
+		  color: #000000;
+		  background-color:  #FFE4E1;
+}
+#wrapper #menu a:hover {
+		  color: #000000;
+		  background-color:  #FFC0CB;
+}
+#wrapper #menu a:active {
+		 color: #000000; 
+		 background-color: #FFC0CB;
+}
+.external-link {
+		  font-size: 12px;
+		  background-color: #FFE4E1;
+}
+.external-link a:link {
+		   font-size: 12px;
+		   color: #000000;
+		   text-decoration: none;
+}
+.external-link a:hover {
+		  font-size: 12px;
+		  color: #000000;
+		  text-decoration: underline;
+}
+.extrernal-link a:visited {
+		   font-size: 12px;
+		   color: #000000;	
+		   text-decoration: none;
+}
+.foto-profile {
+		    float: left;
+			margin-right: 10px;
+			margin-bottom: 5px;
+}
