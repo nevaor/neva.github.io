@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/nevaor/neva.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nevaor/neva.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<html>
+<title>MY RESUME</title>
+<link rel="stylesheet" type="text/css" href="css.css">
+</head>
+<body>
+<div id="wrapper">
+  <div id="header">
+    <div class="logo">
+	<center><img src="https://raw.githubusercontent.com/nevaor/neva_fortofolio/main/neva.jpg" width="120" height="120" /></center>
+	</div>
+	<div class="banner">
+		<font size="4">THIS IS MY PROFILE</font><br />
+		<font size="6">NEVA OKTAVIA RAMADHINA</font><br />
+	</div>
+	</div>
+	<div id="menu">
+		<a href="index.html">HOME</a>
+		<a href="profile.html">PROFILE</a>
+		<a href="visimisi.html">VISI MISI</a>
+		</div>
+		<div id="content">
+<div class="left-menu">
+		<b><u>EXTERNAL LINK</u></b>
+	<ul class="external-link">
+		<li><a href="https://instagram.com/nevaoktavia">My instagram</a></li>
+		<li><a href="https://mywa.link/nevaor">My Whatss app</a></li>
+		<li><a href="mailto: nevaoktaviaramadhina@smkwikrama.sch.id">My Email</a></li>
+		<li><a href="https:www.linkedin.com/in/neva-o-ramadhina-492ab021b">My Linkedin</a></li>
+	</ul>
+	</div>
+	<div class="page">
+	  <h2>WELCOME TO MY PROFILE "NEVA OKTAVIA RAMADHINA"<h2>
+	  website ini terdiri dari:
+	  <ul type="square">
+	    <li>Profile Saya</li>
+		<li>Visi misi hidup Saya</li>
+	  </ul>
+	 </div>
+	</div>
+	  <div id="footer">&copy; NEVA OKTAVIA RAMADHINA 2021</div>
+	 </div>
+</body>
+</html>
